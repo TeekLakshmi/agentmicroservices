@@ -4,7 +4,7 @@ on:
     branches: [ main ]
 
 env:
-  PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+  PROJECT_ID: able-study-480215-b9
   REGION: us-central1
   REPO_NAME: agentmicroservices
 
